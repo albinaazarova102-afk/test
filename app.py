@@ -1,1 +1,2 @@
-print('jjjj') 
+def fgh():
+    pass
